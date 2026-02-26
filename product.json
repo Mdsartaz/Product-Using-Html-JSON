@@ -1,0 +1,218 @@
+{
+  "products": [
+    {
+      "category": "Mobile",
+      "items": [
+        {
+          "id": "1",
+          "name": "iphone 16",
+          "brand": "Apple",
+          "price": "78,500",
+          "features": ["6.5-inch display", "256GB storage", "12GB RAM", "5G support", "lithium-ion battery", "Face ID", "Wireless Charging"],
+          "image": "img/iphone-16.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S24 Ultra",
+          "brand": "Samsung",
+          "price": "124,000",
+          "features": ["8.6-inch AMOLED", "512GB storage", "12GB RAM", "Quad Camera", "5G support", "S Pen", "120Hz refresh rate", "5800mAh battery", "Wireless Charging"],
+          "image": "img/Samsung-Galaxy-S24-Ultra.jpeg"
+        },
+        {
+          "id": "3",
+          "name": "Google Pixel 8 Pro",
+          "brand": "Google",
+          "price": "95,000",
+          "features": ["6.8-inch OLED", "256GB storage", "8GB RAM", "AI Camera", "5G support", "Duble Camera", "Titan M2 Security Chip", "Wireless Charging", "120Hz refresh rate", "5500mAh battery"],
+          "image": "img/Google-Pixel-8-Pro.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Vivo v50",
+          "brand": "Vivo",
+          "price": "70,000",
+          "features": ["6.9-inch Fluid AMOLED", "256GB storage", "12GB RAM", "Fast Charging", "5G support", "Quad Camera", "4500mAh battery", "In-display Fingerprint Sensor"],
+          "image": "img/Vivo-v50.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "OnePlus 12",
+          "brand": "OnePlus",
+          "price": "85,000",
+          "features": ["6.7-inch Fluid AMOLED", "256GB storage", "12GB RAM", "Hasselblad Camera", "5G support", "Fast Charging", "5000mAh battery", "120Hz refresh rate"],
+          "image": "img/OnePlus-121.jpeg"
+        },
+        {
+          "id": "6",
+          "name": "Realme GT 3",
+          "brand": "Realme",
+          "price": "55,000",
+          "features": ["6.5-inch 4K OLED", "512GB storage", "12GB RAM", "Cinematography Pro", "5G support", "Triple Camera", "4000mAh battery", "150W SuperDart Charging", "120Hz refresh rate"],
+          "image": "img/Realme-GT-3.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Laptop",
+      "items": [
+        {
+          "id": "1",
+          "name": "Samsung Galaxy Book4",
+          "brand": "Samsung",
+          "price": "64,990",
+          "features": ["Qualcomm Snapdragon X Processor", "16GB LPDDR5X RAM", "512GB SSD", "39.62 cm (15.6-inch) FHD+ AMOLED Display", "MS Office Home & Student 2024", "Windows 11 Home", "1 Year Warranty"],
+          "image": "img/Samsung-Galaxy-Book4.WEBP"
+        },
+        {
+          "id": "2",
+          "name": "MacBook AIR M2",
+          "brand": "Apple",
+          "price": "66,990",
+          "features": ["Apple M2 Processor", "16 GB UNified RAM", "512GB SSD", "34.54 cm (13.5 inch) Display", "Built-in Apps: App Store", "Books", "Calendar", "Contacts", "FaceTime", "Find My", "GarageBand", "Mail", "macOS", "1 Year Warranty"],
+          "image": "img/MacBook-AIR-M2.WEBP"
+        },
+        {
+          "id":"3",
+          "name": "MacBook Air M3",
+          "brand": "Apple",
+          "price": "91,990",
+          "features":["Apple M4 Processor", "16 GB UNified Memory RAM", "Mac OS Operationg System", "512GB SSD", "38.89 cm (15.3 inch) Display", "Built-in Apps: App Store", "Books", "Calendar", "Contacts", "FaceTime", "Find My", "GarageBand", "Mail", "macOS", "1 Year Warranty"],
+          "image":"img/MacBook-Air-M3.WEBP"
+
+        },
+        {
+          "id":"4",
+          "name": "Dell XPS 13 Plus",
+          "brand": "Dell",
+          "price": "1,29,990",
+          "features":["13.4-inch FHD+ Touch Display", "Intel Core i7-1260P Processor", "16GB LPDDR5 RAM", "512GB SSD", "Windows 11 Home", "1 Year Warranty"],
+          "image":"img/Dell-XPS-13.WEBP"
+        },
+        {
+          "id":"5",
+          "name": "Lenovo LOQ AMD Ryzen 5",
+          "brand": "Lenovo",
+          "price": "69,990",
+          "features":["15.6-inch FHD Display", "AMD Ryzen 5 5600H Processor", "8GB DDR4 RAM", "512GB SSD", "Windows 11 Home", "1 Year Warranty"],
+          "image":"img/Lenovo-LOQ-AMD-Ryzen-5.webp"
+        },
+        {
+          "id":"6",
+          "name": "HP 15",
+          "brand": "HP",
+          "price": "54,990",
+          "features":["Core 5 120U","15.6-inch FHD Display", "Intel Core i5-1135G7 Processor", "8GB DDR4 RAM", "512GB SSD", "Windows 11 Home", "MS Office Home + MISC PC Game Pass DA 3M", "1 Year Warranty"],
+          "image":"img/HP-15.webp"
+        }
+      ]
+    },
+    {
+      "category": "TV",
+      "items": [
+        {
+          "id": "1",
+          "name": "Realme TechLife Smart TV",
+          "brand": "Realme",
+          "price": "9,999",
+          "features": ["80 cm (32-inch)", "QLED HD Ready Smart Google TV 2025 Edition", "Smart OS", "Total Sound Output 26 W", "1 Year Warranty"],
+          "image": "img/Realme-TechLife.webp"
+        },
+        {
+          "id": "2",
+          "name": "LG Ultra HD TV 84 inch",
+          "brand": "LG",
+          "price": "1,19,900",
+          "features": ["ULTRA HD 8.3 Megapisels", "Tru-ULTRA HD Engine", "Intuitive Smart TV", "3D Type(SG/FPR/AR/GPR/Non-Glass)", "3D to 2D Convert Source", "Full 4K HEVC 30p", "1 Year Warranty"],
+          "image": "img/LG-Ultra-HD-TV.jpeg"
+        },
+        {
+          "id": "3",
+          "name": "Sony Bravia 4K Ultra HD",
+          "brand": "Sony",
+          "price": "89,990",
+          "features": ["135 cm (48-inch)", "4K Ultra HD Smart LED Google TV", "X1 4K HDR Processor", "Dolby Audio", "Google Assistant", "1 Year Warranty"],
+          "image": "img/Sony-Bravia-4K-Ultra-HD.jpeg"
+        },
+        {
+          "id": "4",
+          "name": "Samsung Crystal 4K Pro",
+          "brand": "Samsung",
+          "price": "74,990",
+          "features": ["108 cm (43-inch)", "4K Ultra HD Smart LED TV", "Crystal Processor 4K", "Dolby Digital Plus", "Smart TV with Tizen OS", "1 Year Warranty"],
+          "image": "img/Samsung-Crystal-4K-Pro.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "Mi TV 5X 55 inch",
+          "brand": "Mi",
+          "price": "39,999",
+          "features": ["138 cm (55-inch)", "4K Ultra HD Smart LED Google TV", "PatchWall with Android TV", "Dolby Vision", "Google Assistant", "1 Year Warranty"],
+          "image": "img/Mi-TV-5X-55-inch.jpeg"
+        },
+        {
+          "id": "6",
+          "name": "TCL 4K Mini LED TV",
+          "brand": "TCL",
+          "price": "59,999",
+          "features": ["123 cm (49-inch)", "4K Ultra HD Smart Mini LED Google TV", "AiPQ Engine", "Dolby Vision IQ", "Google Assistant", "1 Year Warranty"],
+          "image": "img/TCL-4K-Mini-LED-TV.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Watch",
+      "items": [
+        {
+          "id": "1",
+          "name": "Apple Watch Series 9",
+          "brand": "Apple",
+          "price": "45,900",
+          "features": ["Always-On Retina Display", "Blood Oxygen App", "ECG App", "Swimproof Design", "Fitness Tracking", "Sleep Tracking", "Family Setup", "Fall Detection"],
+          "image": "img/Apple-Watch-Series-9.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy Watch 6",
+          "brand": "Samsung",
+          "price": "29,999",
+          "features": ["Super AMOLED Display", "Body Composition Analysis", "ECG Monitoring", "Blood Pressure Monitoring", "Fitness Tracking", "Sleep Tracking", "Water Resistant"],
+          "image": "img/Samsung-Galaxy-Watch-6.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Garmin Venu 2 Plus",
+          "brand": "Garmin",
+          "price": "35,000",
+          "features": ["AMOLED Display", "Health Monitoring", "Fitness Tracking", "Sleep Tracking", "Built-in GPS", "Water Resistant"],
+          "image": "img/Garmin-Venu-2-Plus.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Fitbit Versa 4",
+          "brand": "Fitbit",
+          "price": "20,000",
+          "features": ["AMOLED Display", "Heart Rate Monitoring", "Fitness Tracking", "Sleep Tracking", "Built-in GPS", "Water Resistant"],
+          "image": "img/Fitbit-Versa-4.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Amazfit GTR 4",
+          "brand": "Amazfit",
+          "price": "15,000",
+          "features": ["AMOLED Display", "Heart Rate Monitoring", "Fitness Tracking", "Sleep Tracking", "Built-in GPS", "Water Resistant"],
+          "image": "img/Amazfit-GTR-4.jpg"
+        },
+        {
+          "id": "6",
+          "name": "TicWatch Pro 3 Ultra",
+          "brand": "TicWatch",
+          "price": "25,000",
+          "features": ["AMOLED Display", "Health Monitoring", "Fitness Tracking", "Sleep Tracking", "Built-in GPS", "Water Resistant"],
+          "image": "img/TicWatch-Pro 3-Ultra.jpg"
+        }
+      ]
+    }
+  ]
+}
+
